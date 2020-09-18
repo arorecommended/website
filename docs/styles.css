@@ -12,6 +12,10 @@ body {
     font-family: 'Montserrat';
 }
 
+a {
+  color: var(--fontColor1);
+}
+
 #main {
     background-color: var(--bGColor1);
     padding: 2%;
